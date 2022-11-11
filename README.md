@@ -16,8 +16,12 @@ To search for a recipe the user simply types a search key word for a recipe like
 
 Then on the sidebar your search results will appear. To render on the main view just click on any.
 
-## Technologies Used
+## Technologies used
 
 1. HTML
-2. CSS (Grid / Flex)
+2. CSS (CSS Grid, Flex, SASS)
 3. Vanilla JavaScript (Recipe API - By Jonas SchedtsMann)
+
+## Live link to the Forkify Recipe App
+
+[https://eric-forkify.netlify.app/](https://eric-forkify.netlify.app/ "Forkify Recipe App")
